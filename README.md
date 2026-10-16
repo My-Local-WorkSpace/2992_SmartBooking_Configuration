@@ -1,0 +1,2 @@
+# 2992_SmartBooking_Configuration
+2992_SmartBooking_Configuration for different environments
